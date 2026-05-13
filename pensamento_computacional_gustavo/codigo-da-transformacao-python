@@ -1,0 +1,6 @@
+# Programa que pede o nome do usuário e mostra uma mensagem personalizada
+
+nome = input("Digite seu nome de usuário: ")
+
+print(f"Olá, {nome}! Seja bem-vindo(a) ao programa 🚀")
+
